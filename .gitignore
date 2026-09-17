@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Datos originales grandes
+data/raw/
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos temporales
+*.tmp
+*.log
