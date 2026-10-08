@@ -108,7 +108,7 @@ The Power BI dashboard includes six KPI cards and six visualizations covering ho
 
 
 
-!\[Urban Mobility Intelligence Dashboard](visualizations/dashboard.png)
+![Urban Mobility Intelligence Dashboard](visualizations/dashboard.png)
 
 
 
