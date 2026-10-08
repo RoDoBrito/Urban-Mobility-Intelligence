@@ -13,3 +13,4 @@ data/raw/
 # Archivos temporales
 *.tmp
 *.log
+data/processed/*.parquet

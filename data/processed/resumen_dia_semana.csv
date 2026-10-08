@@ -1,0 +1,8 @@
+dia_semana,numero_dia,cantidad_viajes,ingresos_totales,importe_promedio,distancia_promedio,duracion_promedio
+Monday,0,390823,12092850.14,30.94,3.75,16.84
+Tuesday,1,426425,12663329.79,29.7,3.32,17.08
+Wednesday,2,567263,17030066.73,30.02,3.34,17.36
+Thursday,3,572090,17325487.18,30.28,3.37,17.97
+Friday,4,526439,15783379.3,29.98,3.55,17.57
+Saturday,5,446662,13030218.06,29.17,3.67,16.85
+Sunday,6,414878,12808492.62,30.87,4.17,16.67
